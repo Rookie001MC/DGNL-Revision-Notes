@@ -8,4 +8,4 @@
 		2. Biểu đồ Venn
 		3. Suy luận thường
 		4. Lựa chọn tình huống
-2. Phân tích số liệu
+2. [[Phân tích số liệu]]
