@@ -1,0 +1,21 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "vi"
+  ],
+  "vimMode": true,
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "useMarkdownLinks": false
+}
