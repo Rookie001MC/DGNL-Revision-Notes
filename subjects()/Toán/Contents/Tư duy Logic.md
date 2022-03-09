@@ -13,10 +13,10 @@
 ## Kiến thức cần thiết
 
 - **Mệnh đề:** câu khẳng định chỉ đúng/sai. (không phải "?", "!", cầu khiến)
-- **Mệnh đề phủ định**: $P \rightarrow \bar{P}$ Không phải P
+- **Mệnh đề phủ định**: $`P \rightarrow \bar{P}`$ Không phải P
 - **Mệnh đề hội:** $P \cap Q$  "P và Q" - **"và"**
 - **Mệnh đề tuyển:** $P \cup Q$ "P hoặc Q" - **"hoặc"**
-- **Mệnh đề kéo theo:** $P \Rightarrow Q$  "Nếu P thì Q - P suy ra Q"
+- **Mệnh đề kéo theo:** $P \Rightarrow Q$  "Nếu P thì Q - P su:y ra Q"
 - **Mệnh đề đảo của $P \Rightarrow Q$:** là $Q \Rightarrow P$
 	- Nếu $P \Rightarrow Q$ là 1 định lý: $P$ gọi là *điều kiện đủ*, $Q$ gọi là *điều kiện cần*.
 - **Mệnh đề tương đương:** $P \Leftrightarrow Q$ : "P nếu và chỉ nếu Q"
